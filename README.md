@@ -18,7 +18,8 @@ ML Engineer specializing in production-grade AI systems, with expertise in NLP, 
 ## Technical Expertise
 
 **Machine Learning & AI**
-- Frameworks: PyTorch, TensorFlow, Scikit-learn
+- Frameworks: PyTorch, Scikit-learn
+- Agentic AI: CrewAI, =LangGraph, LangChain
 - NLP: Transformers, LangChain, LlamaIndex, BERT, GPT architectures
 - Computer Vision: OpenCV, YOLO, CNN architectures
 - Vector Databases: Qdrant, Pinecone, Weaviate

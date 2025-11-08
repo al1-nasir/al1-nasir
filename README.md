@@ -1,25 +1,48 @@
+# Muhammad Ali Nasir
 
-<h1 align="center">Hi, I'm Muhammad Ali Nasir</h1>
-<h3 align="center">A dedicated AI & ML Engineer from Pakistan</h3>
+**Machine Learning Engineer | NLP Specialist | Full-Stack AI Developer**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=al1-nasir&label=Profile%20views&color=0e75b6&style=flat" alt="al1-nasir" /> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=al1-nasir&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/al1-nasir)
 
--  I’m currently working on **Machine Learning Projects**
+## Professional Summary
 
--  I’m currently learning **TensorFlow, DeepLearning**
+ML Engineer specializing in production-grade AI systems, with expertise in NLP, computer vision, and scalable infrastructure. Focused on building intelligent applications leveraging LLMs, RAG architectures, and agentic AI systems. Experienced in end-to-end ML pipeline development from research to deployment.
 
--  I’m looking to collaborate on **Python, C++ ,Java Projects**
+## Current Focus
 
--  Ask me about **C++,C,Java,Python Queries**
+- Architecting AI-powered SaaS applications with retrieval-augmented generation
+- Developing agentic AI systems and advanced NLP solutions
+- Implementing production ML deployments with scalable infrastructure
+- Exploring cutting-edge LLM architectures and vector database optimization
 
--  How to reach me **muhammadalinasir00786@gmail.com**
- 
--  Fun fact **I am very dedicated to help by Machine Learning Skills**
+## Technical Expertise
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/al1-nasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="al1-nasir" height="30" width="40" /></a>
-</p>
+**Machine Learning & AI**
+- Frameworks: PyTorch, TensorFlow, Scikit-learn
+- NLP: Transformers, LangChain, LlamaIndex, BERT, GPT architectures
+- Computer Vision: OpenCV, YOLO, CNN architectures
+- Vector Databases: Qdrant, Pinecone, Weaviate
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer">  </a> </p>
+**Backend & Infrastructure**
+- Python, FastAPI, Django
+- PostgreSQL, Redis, MongoDB
+- Docker, Kubernetes, CI/CD
+- RESTful APIs, Microservices architecture
+
+## Collaboration
+
+Open to collaborating on:
+- Advanced ML/AI research projects
+- Production NLP applications
+- Scalable full-stack AI solutions
+- Open-source ML tooling
+
+## Contact
+
+**Email:** muhammadalinasir00786@gmail.com
+
+**LinkedIn:** [linkedin.com/in/al1-nasir](https://linkedin.com/in/al1-nasir)
+
+---
+
+*Building intelligent systems that bridge research and production*

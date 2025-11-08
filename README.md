@@ -29,20 +29,12 @@ ML Engineer specializing in production-grade AI systems, with expertise in NLP, 
 - Docker, Kubernetes, CI/CD
 - RESTful APIs, Microservices architecture
 
-## Collaboration
-
-Open to collaborating on:
-- Advanced ML/AI research projects
-- Production NLP applications
-- Scalable full-stack AI solutions
-- Open-source ML tooling
 
 ## Contact
 
-**Email:** muhammadalinasir00786@gmail.com
-
-**LinkedIn:** [linkedin.com/in/al1-nasir](https://linkedin.com/in/al1-nasir)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/al1-nasir)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/al1nasir)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadalinasir00786@gmail.com)
 ---
 
 *Building intelligent systems that bridge research and production*

@@ -1,6 +1,6 @@
 # Muhammad Ali Nasir
 
-**Machine Learning Engineer | NLP Specialist | Full-Stack AI Developer**
+**ML and AI system designer**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=al1-nasir&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/al1-nasir)
 
@@ -19,7 +19,7 @@ ML Engineer specializing in production-grade AI systems, with expertise in NLP, 
 
 **Machine Learning & AI**
 - Frameworks: PyTorch, Scikit-learn
-- Agentic AI: CrewAI, =LangGraph, LangChain
+- Agentic AI: CrewAI, LangGraph, LangChain
 - NLP: Transformers, LangChain, LlamaIndex, BERT, GPT architectures
 - Computer Vision: OpenCV, YOLO, CNN architectures
 - Vector Databases: Qdrant, Pinecone, Weaviate

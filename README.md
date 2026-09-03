@@ -4,7 +4,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=al1-nasir&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/al1-nasir)
 
-## Professional Summary
 
 ML Engineer specializing in production-grade AI systems, with expertise in NLP, computer vision, and scalable infrastructure. Focused on building intelligent applications leveraging LLMs, RAG architectures, and agentic AI systems. Experienced in end-to-end ML pipeline development from research to deployment.
 

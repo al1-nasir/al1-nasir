@@ -16,6 +16,7 @@ I’m interested in systems people can inspect: where an answer came from, how a
        width="840" height="84"
        alt="Python, PyTorch, Transformers, LangGraph, Qdrant, FastAPI, Neo4j, Docker" />
 </picture>
+
 **Models** : PyTorch · Transformers · scikit-learn · PEFT / LoRA  
 **Retrieval & agents** : LangGraph · LangChain · CrewAI · Qdrant · Neo4j  
 **Services** : Python · FastAPI · Docker · PostgreSQL · llama.cpp

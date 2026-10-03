@@ -8,17 +8,14 @@ I’m interested in systems people can inspect: where an answer came from, how a
 
 ### Working stack
 
-<picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 560px) and (prefers-color-scheme: dark)" srcset="./assets/skills-dark-mobile.png" />
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 560px)" srcset="./assets/skills-light-mobile.png" />
-  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/skills-dark.png" />
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/skills-light.png" />
-  <source media="(max-width: 560px) and (prefers-color-scheme: dark)" srcset="./assets/skills-dark-mobile.gif" />
-  <source media="(max-width: 560px)" srcset="./assets/skills-light-mobile.gif" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/skills-dark.gif" />
-  <img src="./assets/skills-light.gif" width="840" alt="Python, PyTorch, Transformers, LangGraph, Qdrant, FastAPI, Neo4j, Docker" />
-</picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="./assets/skills-dark.gif" />
+  <img src="./assets/skills-light.gif"
+       width="840" height="84"
+       alt="Python, PyTorch, Transformers, LangGraph, Qdrant, FastAPI, Neo4j, Docker" />
+</picture>
 **Models** — PyTorch · Transformers · scikit-learn · PEFT / LoRA  
 **Retrieval & agents** — LangGraph · LangChain · CrewAI · Qdrant · Neo4j  
 **Services** — Python · FastAPI · Docker · PostgreSQL · llama.cpp

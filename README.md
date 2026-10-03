@@ -1,40 +1,30 @@
 # Muhammad Ali Nasir
 
-**ML and AI system designer**
+**ML & AI Systems Engineer** · Applied research · Open source
+
+I build retrieval pipelines, language-model infrastructure, and tools for working with code and scientific literature. My work spans model training, fine-tuning, and the services that put models to use.
+
+I’m interested in systems people can inspect: where an answer came from, how a model was evaluated, and what happens when an agent makes a mistake.
+
+### Working stack
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 560px) and (prefers-color-scheme: dark)" srcset="./assets/skills-dark-mobile.png" />
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 560px)" srcset="./assets/skills-light-mobile.png" />
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/skills-dark.png" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/skills-light.png" />
+  <source media="(max-width: 560px) and (prefers-color-scheme: dark)" srcset="./assets/skills-dark-mobile.gif" />
+  <source media="(max-width: 560px)" srcset="./assets/skills-light-mobile.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/skills-dark.gif" />
+  <img src="./assets/skills-light.gif" width="840" alt="Python, PyTorch, Transformers, LangGraph, Qdrant, FastAPI, Neo4j, Docker" />
+</picture>
+
+**Models** — PyTorch · Transformers · scikit-learn · PEFT / LoRA  
+**Retrieval & agents** — LangGraph · LangChain · CrewAI · Qdrant · Neo4j  
+**Services** — Python · FastAPI · Docker · PostgreSQL · llama.cpp
+
+<sub>Research interests: efficient NLP, agent evaluation, and time-series forecasting.</sub>
+
+[Portfolio ↗](https://alinasir.me) &nbsp; · &nbsp; [LinkedIn](https://linkedin.com/in/al1-nasir) &nbsp; · &nbsp; [Kaggle](https://www.kaggle.com/al1nasir) &nbsp; · &nbsp; [Email](mailto:muhammadalinasir00786@gmail.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=al1-nasir&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/al1-nasir)
-
-
-ML Engineer specializing in production-grade AI systems, with expertise in NLP, computer vision, and scalable infrastructure. Focused on building intelligent applications leveraging LLMs, RAG architectures, and agentic AI systems. Experienced in end-to-end ML pipeline development from research to deployment.
-
-## Current Focus
-
-- Architecting AI-powered SaaS applications with retrieval-augmented generation
-- Developing agentic AI systems and advanced NLP solutions
-- Implementing production ML deployments with scalable infrastructure
-- Exploring cutting-edge LLM architectures and vector database optimization
-
-## Technical Expertise
-
-**Machine Learning & AI**
-- Frameworks: PyTorch, Scikit-learn
-- Agentic AI: CrewAI, LangGraph, LangChain
-- NLP: Transformers, LangChain, LlamaIndex, BERT, GPT architectures
-- Computer Vision: OpenCV, YOLO, CNN architectures
-- Vector Databases: Qdrant, Pinecone, Weaviate
-
-**Backend & Infrastructure**
-- Python, FastAPI, Django
-- PostgreSQL, Redis, MongoDB
-- Docker, Kubernetes, CI/CD
-- RESTful APIs, Microservices architecture
-
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/al1-nasir)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/al1nasir)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadalinasir00786@gmail.com)
----
-
-*Building intelligent systems that bridge research and production*

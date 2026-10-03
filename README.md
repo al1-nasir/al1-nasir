@@ -16,12 +16,10 @@ I’m interested in systems people can inspect: where an answer came from, how a
        width="840" height="84"
        alt="Python, PyTorch, Transformers, LangGraph, Qdrant, FastAPI, Neo4j, Docker" />
 </picture>
-**Models** — PyTorch · Transformers · scikit-learn · PEFT / LoRA  
-**Retrieval & agents** — LangGraph · LangChain · CrewAI · Qdrant · Neo4j  
-**Services** — Python · FastAPI · Docker · PostgreSQL · llama.cpp
+**Models** : PyTorch · Transformers · scikit-learn · PEFT / LoRA  
+**Retrieval & agents** : LangGraph · LangChain · CrewAI · Qdrant · Neo4j  
+**Services** : Python · FastAPI · Docker · PostgreSQL · llama.cpp
 
 <sub>Research interests: efficient NLP, agent evaluation, and time-series forecasting.</sub>
 
 [Portfolio ↗](https://alinasir.me) &nbsp; · &nbsp; [LinkedIn](https://linkedin.com/in/al1-nasir) &nbsp; · &nbsp; [Kaggle](https://www.kaggle.com/al1nasir) &nbsp; · &nbsp; [Email](mailto:muhammadalinasir00786@gmail.com)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=al1-nasir&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/al1-nasir)
